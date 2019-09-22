@@ -32,7 +32,7 @@ if(!empty($dataResule[0]['user_name'])){
                     <input type="password" class="form-control" id="exampleInputPassword1" name="Password" placeholder="Password">
                 </div>
                 <button type="submit" class="btn btn-primary btn-block ">Login</button>
-                <a href="" class="text-center">ยังไม่เป็นสมาชิกสมัคร กดสมัครได้ที่นี่</a>
+                <a href="/register/index.php" class="text-center">ยังไม่เป็นสมาชิกสมัคร กดสมัครได้ที่นี่</a>
             </form>
 
         </div>

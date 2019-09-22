@@ -1,8 +1,8 @@
 <?php
-$host = "";
+$host = "nhams.club";
 $port = "5432";
 $dbname = "web_app";
-$user = "";
+$user = "postgres";
 $password = "";
 $pg_options = "--client_encoding=UTF8";
 

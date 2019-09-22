@@ -17,11 +17,6 @@ if ($result ){
     window.location.href='/login/index.php'
 </script>
 ";
-}else{
-    echo "<script>
-    window.location.href='index.php'
-</script>
-";
 }
 ?>
 
